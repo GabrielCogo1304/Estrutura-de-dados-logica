@@ -1,0 +1,30 @@
+# MINICAMPEONATO DE FUTEBOL - ALGORITMOS EM C
+
+Implemente um sistema para registrar partidas e calcular a classificação parcial de um campeonato fictício com Palmeiras, Corinthians, São Paulo e Santos. Os times são armazenados em um **VETOR alocado dinamicamente**.
+
+**Arquivos:**
+- campeonato.h: estruturas e protótipos prontos (não modificar).
+- campeonato.c: implemente as cinco funções obrigatórias. (ARQUIVO A SER ENTREGUE)
+- main.c: já está completo (não modificar).
+
+
+## ENTREGA DA ATIVIDADE
+
+- Implemente as cinco funções obrigatórias no arquivo campeonato.c. (O desafio de recursividade é opcional).
+
+- Após implementar as funções, compile e execute o programa para verificar os resultados.
+
+- Responda às quatro perguntas no espaço reservado ao final do arquivo campeonato.c.
+
+- Entregue apenas o arquivo campeonato.c, contendo as funções implementadas e as respostas.
+
+Perguntas:
+
+a) Quantos pontos o Santos possui?
+
+b) Quantos pontos o time líder possui?
+
+c) Qual é o time líder do campeonato?
+
+d) Quantos times possuem saldo de gols positivo?
+
